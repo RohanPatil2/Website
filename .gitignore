@@ -1,0 +1,9 @@
+# Dependency directory
+/node_modules
+
+# Next.js build and cache artifacts
+/.next
+
+# Any large temporary files or compiled files
+*.pack
+*.node
